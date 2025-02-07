@@ -2,58 +2,58 @@
 
 $status_codes = [
   [
-    'code' => '102',
+    'code' => 'りんご',
     'meaning' => 'Processing',
-    'description' => '処理中である'
+    'description' => 'apple'
   ],
   [
-    'code' => '200',
+    'code' => '机',
     'meaning' => 'OK',
-    'description' => 'リクエストが正常に成功できた'
+    'description' => 'table'
   ],
   [
-    'code' => '301',
+    'code' => 'ペン',
     'meaning' => 'Moved Permanently',
-    'description' => 'リクエストしたリソースが恒久的に移動されている'
+    'description' => 'pen'
   ],
   [
-    'code' => '304',
+    'code' => '手',
     'meaning' => 'Not Modified',
-    'description' => 'リクエストしたリソースは更新されていない'
+    'description' => 'hand'
   ],
   [
-    'code' => '400',
+    'code' => '爪',
     'meaning' => 'Bad Request',
-    'description' => 'クライアントのリクエストに異常がある'
+    'description' => 'nail'
   ],
   [
-    'code' => '401',
+    'code' => '足',
     'meaning' => 'Unauthorized',
-    'description' => 'アクセストークンが無効なときや、認証がされていない'
+    'description' => 'foot'
   ],
   [
-    'code' => '403',
+    'code' => '目',
     'meaning' => 'Forbidden',
-    'description' => '閲覧権限が無いファイルやフォルダである'
+    'description' => 'eye'
   ],
   [
-    'code' => '404',
+    'code' => '海',
     'meaning' => 'Not found',
-    'description' => 'Webページが見つからない'
+    'description' => 'sea'
   ],
   [
-    'code' => '500',
+    'code' => '塩',
     'meaning' => 'Internal Server Error',
-    'description' => '何らかのサーバ内でエラーが起きた'
+    'description' => 'salt'
   ],
   [
-    'code' => '502',
+    'code' => '家',
     'meaning' => 'Bad Gateway',
-    'description' => 'サーバーがリクエストに満たすのに必要な機能をサポートしていない'
+    'description' => 'house'
   ],
   [
-    'code' => '503',
+    'code' => '頭',
     'meaning' => 'Service Unavailable',
-    'description' => '一時的にサーバにアクセスが出来ない'
+    'description' => 'head'
   ]
 ];
